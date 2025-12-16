@@ -1,4 +1,4 @@
-package tv.mish.timezone_provider
+package com.malt03.timezone_provider
 
 import io.flutter.embedding.engine.plugins.FlutterPlugin
 import io.flutter.plugin.common.MethodCall

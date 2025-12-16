@@ -1,7 +1,7 @@
 name: timezone_provider
 description: A Flutter plugin to get the device's IANA timezone name.
 version: 0.0.1
-repository: https://github.com/mish-tv/timezone-provider
+repository: https://github.com/malt03/timezone-provider
 
 environment:
   sdk: ^3.10.1
@@ -21,7 +21,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: tv.mish.timezone_provider
+        package: com.malt03.timezone_provider
         pluginClass: TimezoneProviderPlugin
       ios:
         pluginClass: TimezoneProviderPlugin

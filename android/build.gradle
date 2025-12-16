@@ -1,4 +1,4 @@
-group = "tv.mish.timezone_provider"
+group = "com.malt03.timezone_provider"
 version = "1.0-SNAPSHOT"
 
 buildscript {
@@ -25,7 +25,7 @@ apply plugin: "com.android.library"
 apply plugin: "kotlin-android"
 
 android {
-    namespace = "tv.mish.timezone_provider"
+    namespace = "com.malt03.timezone_provider"
 
     compileSdk = 36
 
